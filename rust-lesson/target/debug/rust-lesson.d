@@ -1,1 +1,1 @@
-/Users/kanekoyuuta/work_space/rust-lesson/rust-lesson/target/debug/rust-lesson: /Users/kanekoyuuta/work_space/rust-lesson/rust-lesson/src/main.rs /Users/kanekoyuuta/work_space/rust-lesson/rust-lesson/src/stack_heep.rs
+/Users/kanekoyuuta/work_space/rust-lesson/rust-lesson/target/debug/rust-lesson: /Users/kanekoyuuta/work_space/rust-lesson/rust-lesson/src/main.rs /Users/kanekoyuuta/work_space/rust-lesson/rust-lesson/src/ownership.rs
