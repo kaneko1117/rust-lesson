@@ -1,6 +1,6 @@
-/Users/yuta_kaneko/rust-lesson/rust-lesson/target/debug/deps/rust_lesson-c427dc7f9278ff9d.d: src/main.rs src/vars.rs
+/Users/yuta_kaneko/rust-lesson/rust-lesson/target/debug/deps/rust_lesson-c427dc7f9278ff9d.d: src/main.rs src/stack_heep.rs
 
-/Users/yuta_kaneko/rust-lesson/rust-lesson/target/debug/deps/librust_lesson-c427dc7f9278ff9d.rmeta: src/main.rs src/vars.rs
+/Users/yuta_kaneko/rust-lesson/rust-lesson/target/debug/deps/librust_lesson-c427dc7f9278ff9d.rmeta: src/main.rs src/stack_heep.rs
 
 src/main.rs:
-src/vars.rs:
+src/stack_heep.rs:
