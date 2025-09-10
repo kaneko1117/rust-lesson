@@ -107,4 +107,14 @@ pub fn run() {
     println!("r5 = {}", r5);
     // 参照のスコープはそれが最後に使われた場所までなので、ここでs12を読むことができる
     println!("s12 = {}", s12);
+
+    let mut s13 = String::from("hello");
+    let r1 = &s13;
+    let r2 = &s13;
+    println!("r1 = {}, r2 = {}", r1, r2);
+    // r1とr2はここまでしか使われていないので、ここでmutableな参照を作ることができる
+    let r3 = &mut s13;
+    *r3 += ", world";
+    println!("r3 = {}", s13);
+
 }
