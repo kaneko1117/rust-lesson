@@ -33,7 +33,7 @@ fn get_longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 //     &s
 // }
 
-fn dummy2() -> i32 {
-    let i = 10;
-    i
-}
+// fn dummy2() -> i32 {
+//     let i = 10;
+//     i
+// }

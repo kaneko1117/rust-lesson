@@ -2,7 +2,8 @@
 // mod stack_heep;
 // mod ownership;
 // mod generics;
-mod lifetime;
+// mod lifetime;
+mod structs;
 
 fn main() {
     // println!("Hello, world!");
@@ -10,5 +11,6 @@ fn main() {
     // stack_heep::run();
     // ownership::run();
     // generics::run();
-    lifetime::run();
+    // lifetime::run();
+    structs::run();
 }
